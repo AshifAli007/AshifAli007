@@ -1,16 +1,16 @@
-Hi I am Ashif
+Mohammad Ashif
 =============================================================================================================================
 
 Analytic Software Engineer
 -------------------------
 
-Hey coders! I'm Ashif, a passionate Software Engineer specializing in React frontend development and animations. My GitHub is a concise showcase of my deep dive into React intricacies, featuring meticulously crafted components, seamless UIs, and engaging animations. Each commit narrates my journey of marrying functionality with visual finesse. Let's connect and explore the nuances of frontend magic together! 💻✨
+Hey coders! I'm Ashif, a passionate Software Engineer specializing in React frontend development and animations. My GitHub is a concise showcase of my deep dive into React intricacies, featuring meticulously crafted components, seamless UIs, and engaging animations. Each commit narrates my journey of marrying functionality with visual finesse. Let's connect and explore the nuances of front-end magic together! 💻✨
 
 * 🌍  I'm based in Florida
 * 🖥️  See my portfolio at [Portfolio and Projects](http://ashifdesigns.com/)
 * ✉️  You can contact me at [theashifkhan@gmail.com](mailto:theashifkhan@gmail.com)
 * 🧠  I'm learning Microservices
-* ⚡  In the day I code, but don't tell anyone that I utilize my nights doing Calisthenics, Boxing and I've been trained in Jiu Jitsu.
+* ⚡  In the day I code, but don't tell anyone that I utilize my nights doing Calisthenics, and Boxing and I've been trained in Jiu Jitsu.
 
 <a href="https://www.github.com/AshifAli007" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/AshifAli007?logo=github&style=for-the-badge&color=6366f1&labelColor=0f172a" /></a>
