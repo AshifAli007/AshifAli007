@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ashif
+Hi I am Ashif
 =============================================================================================================================
 
-Dynamic Software Engineer
+Analytic Software Engineer
 -------------------------
 
-Hey coders! 👋 I'm Ashif, a passionate Software Engineer specializing in React frontend development and animations. My GitHub is a concise showcase of my deep dive into React intricacies, featuring meticulously crafted components, seamless UIs, and engaging animations. Each commit narrates my journey of marrying functionality with visual finesse. Let's connect and explore the nuances of frontend magic together! 💻✨
+Hey coders! I'm Ashif, a passionate Software Engineer specializing in React frontend development and animations. My GitHub is a concise showcase of my deep dive into React intricacies, featuring meticulously crafted components, seamless UIs, and engaging animations. Each commit narrates my journey of marrying functionality with visual finesse. Let's connect and explore the nuances of frontend magic together! 💻✨
 
 * 🌍  I'm based in Florida
 * 🖥️  See my portfolio at [Portfolio and Projects](http://ashifdesigns.com/)
