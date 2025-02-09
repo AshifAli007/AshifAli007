@@ -1,7 +1,7 @@
 Mohammad Ashif
 =============================================================================================================================
 
-Cloud Engineer
+Software Engineer
 -------------------------
 
 Hey coders! I'm Ashif, a passionate Software Engineer specializing in React frontend development and animations. My GitHub is a concise showcase of my deep dive into React intricacies, featuring meticulously crafted components, seamless UIs, and engaging animations. Each commit narrates my journey of marrying functionality with visual finesse. Let's connect and explore the nuances of front-end magic together! 💻✨
