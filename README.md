@@ -4,7 +4,7 @@ Mohammad Ashif
 Software Engineer
 -------------------------
 
-Hey coders! I'm Ashif, a passionate Software Engineer specializing in React frontend development and animations. My GitHub is a concise showcase of my deep dive into React intricacies, featuring meticulously crafted components, seamless UIs, and engaging animations. Each commit narrates my journey of marrying functionality with visual finesse. Let's connect and explore the nuances of front-end magic together! 💻✨
+Hey coders! I'm Ashif, a passionate Software Engineer specializing in full-stack development using Node.js and React. My GitHub is full of project experiences since 2019. It ranges from projects related to my courses in bachelor's and master's degrees to web development and Robotics. I dive deep into these technologies to create and invent software, making the web easy to use for people.
 
 * 🌍  I'm based in Florida
 * 🖥️  See my portfolio at [Portfolio and Projects](http://ashifdesigns.com/)
