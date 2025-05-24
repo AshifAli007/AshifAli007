@@ -6,7 +6,7 @@ Software Engineer
 
 Hey coders! I'm Ashif, a passionate Software Engineer specializing in full-stack development using Node.js and React. My GitHub is full of project experiences since 2019. It ranges from projects related to my courses in bachelor's and master's degrees to web development and Robotics. I dive deep into these technologies to create and invent software, making the web easy to use for people.
 
-* 🌍  I'm based in Florida
+* 🌍  I'm based in Austin, TX
 * 🖥️  See my portfolio at [Portfolio and Projects](http://ashifdesigns.com/)
 * ✉️  You can contact me at [theashifkhan@gmail.com](mailto:theashifkhan@gmail.com)
 * 🧠  I'm learning Microservices
